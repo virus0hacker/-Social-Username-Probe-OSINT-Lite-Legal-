@@ -116,6 +116,7 @@ You can easily add more website checks — just edit the SITES section inside th
 ```
 
 📜 License:
+
 Released under the MIT License — free for legal and ethical use only.
 
 
