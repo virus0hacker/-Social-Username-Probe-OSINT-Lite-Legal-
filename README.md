@@ -14,18 +14,20 @@ Social Username Probe is a fast and lightweight public username scanner that che
 
 
 
-🌐 Supported Platforms
-Platform	Public Check
-Twitter (X)	✔️
-Instagram	✔️
-TikTok	✔️
-YouTube	✔️
-SoundCloud	✔️
-Snapchat	✔️
-Telegram	✔️
-Reddit	✔️
-Facebook	✔️
-GitHub	✔️
+🌐 Supported Platforms:
+| Platform    | Public Check |
+| ----------- | ------------ |
+| Twitter (X) | ✔️           |
+| Instagram   | ✔️           |
+| TikTok      | ✔️           |
+| YouTube     | ✔️           |
+| SoundCloud  | ✔️           |
+| Snapchat    | ✔️           |
+| Telegram    | ✔️           |
+| Reddit      | ✔️           |
+| Facebook    | ✔️           |
+| GitHub      | ✔️           |
+
 
 
 
@@ -90,10 +92,10 @@ To add a new platform, edit the SITES list:
 
 👨‍💻 Developer:
 
-| Info     | Details               |
-| -------- | --------------------- |
-| Name     | **virus-hacker**      |
-| Snapchat | **ml-ftt**            |
+| Info     | Details                             |
+| -------- | ---------------------               |
+| Name     | **virus-hacker**                    |
+| Snapchat | **ml-ftt**                          |
 | GitHub   | **https://github.com/virus0hacker** |
 
 
